@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "248190976379",
+    "project_id": "safetyandcheap-19235",
+    "storage_bucket": "safetyandcheap-19235.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248190976379:android:f370a57ffe467d9319fdde",
+        "android_client_info": {
+          "package_name": "com.example.safetyandcheap"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHGxM2Uid1l7dm18zJBgeYx4xt024t1WA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
